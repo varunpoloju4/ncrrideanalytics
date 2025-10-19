@@ -1,0 +1,8 @@
+Vehicle Type,Total_Bookings,Avg_Booking_Value,Avg_Ride_Distance,Avg_Driver_Rating,Avg_Customer_Rating
+Auto,37419,506.73,24.62,4.23,4.4
+Go Mini,29806,507.68,24.61,4.23,4.4
+Go Sedan,27141,511.5,24.61,4.23,4.41
+Bike,22517,510.2,24.65,4.23,4.4
+Premier Sedan,18111,509.57,24.6,4.23,4.4
+eBike,10557,503.9,24.99,4.23,4.4
+Uber XL,4449,501.82,24.4,4.24,4.4

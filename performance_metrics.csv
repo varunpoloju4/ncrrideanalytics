@@ -1,0 +1,2 @@
+Total_Bookings,Completed_Rides,Driver_Cancellations,Customer_Cancellations,No_Driver_Found,Incomplete_Rides,Completion_Rate,Driver_Cancellation_Rate,Customer_Cancellation_Rate,No_Driver_Rate
+150000,93000,27000,10500,10500,9000,62.0,18.0,7.0,7.0
